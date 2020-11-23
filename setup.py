@@ -4,9 +4,9 @@ setup(
     name='rl-agents',
     version='1.0.dev0',
     description='A collection of Reinforcement Learning agents',
-    url='https://github.com/eleurent/rl-agents',
-    author='Edouard Leurent',
-    author_email='eleurent@gmail.com',
+    url='https://github.com/RL-AutonomousDriving/RLAgent',
+    author='Vignesh Kumar Thangarajan',
+    author_email='vigneshkumar.thangarajan@gmail.com',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
