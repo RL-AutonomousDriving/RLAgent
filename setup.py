@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='rl-agents',
+    name='RLAgent',
     version='1.0.dev0',
     description='A collection of Reinforcement Learning agents',
     url='https://github.com/RL-AutonomousDriving/RLAgent',
