@@ -1,4 +1,4 @@
-# DRL Agents
+# Deep Reinforcement Learning Agents
 
 - Deep Q-Network
 - Double DQN
