@@ -1,5 +1,5 @@
 # DRL Agents
 
-- DQN
-- DDQN
-- Dueling DQN
+- Deep Q-Network
+- Double DQN
+- Dueling DQN Architecture
